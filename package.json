@@ -1,0 +1,16 @@
+{
+  "name": "surveyform",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage":"https://HarshitAgarwal22000.io/surveyform",
+  "dependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
